@@ -1,9 +1,3 @@
-package clean_code;
-
-import java.net.URL;
-import java.util.Date;
-import java.util.List;
-
 public class Name {
 	// variáveis que falam por si só
 	// A
